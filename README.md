@@ -30,6 +30,8 @@ If not successful, Json response:
 {
   "status": "error"
 }
+
+
 Getting Data of Bus from a given time
 URL: "http://13.58.183.35/api/get_bus_data_from_time/"
 
@@ -117,6 +119,9 @@ If not successful, Json response:
 {
   "status": "error"
 }
+
+
+
 Getting current data of a Bus
 URL: "http://13.58.183.35/api/web/get_fuel_data/"
 
@@ -220,7 +225,8 @@ If not successful, Json response:
 {
   "status": "error"
 }
-Getting Data of Bus of a user
+
+## Getting Data of Bus of a user
 URL: "http://13.58.183.35/api/get_bus_data_user/"
 
 Method: POST
