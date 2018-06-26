@@ -1,4 +1,4 @@
-package com.immense.bustracker;
+package com.example.ujjawaljain.bustracker;
 
 import org.junit.Test;
 
