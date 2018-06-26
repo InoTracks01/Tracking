@@ -1,4 +1,4 @@
-package com.immense.bustracker;
+package com.example.ujjawaljain.bustracker;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.immense.bustracker", appContext.getPackageName());
+        assertEquals("com.example.ujjawaljain.bustracker", appContext.getPackageName());
     }
 }
